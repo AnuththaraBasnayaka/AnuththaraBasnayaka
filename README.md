@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Research Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Programming and DevOps Concepts**
 
 - 👯 I’m looking to collaborate on **SLIIT**
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 My projects are available at **My Github Account**
 
-- 📝 I regularly write articles on 
+- 📝 I am writting articles on **https://smartmindsplus.blogspot.com** 
 
 - 📫 How to reach me **anuththaraabasnayaka@gmail.com**
 
