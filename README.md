@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **anuththaraabasnayaka@gmail.com**
 
-- 📄 Know about my experiences **Download my Resume**
+- 📄 Know about my experiences **My Resum : https://flowcv.com/resume/q06aemr3uw**
 
 - ⚡ Fun fact **I don't know what to do, but I do**
 
