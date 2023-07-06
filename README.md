@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **anuththaraabasnayaka@gmail.com**
 
-- 📄 Know about my experiences [portfoilo](portfoilo)
+- 📄 Know about my experiences **Download my Resume**
 
-- ⚡ Fun fact **Don't think too much**
+- ⚡ Fun fact **I don't know what to do, but I do**
 
 <hr>
 <h3 align="left">Connect with me:</h3>
@@ -40,5 +40,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuththarabasnayaka&" alt="anuththarabasnayaka" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuththarabasnayaka&show_icons=true&locale=en&layout=compact" alt="anuththarabasnayaka" /></p>
