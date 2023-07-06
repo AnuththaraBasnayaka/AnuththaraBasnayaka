@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 👨‍💻 My projects are available at [My Github Account](My Github Account)
+- 👨‍💻 My projects are available at **My Github Account**
 
 - 📝 I regularly write articles on [https://smartmindsplus.blogspot.com/](https://smartmindsplus.blogspot.com/)
 
