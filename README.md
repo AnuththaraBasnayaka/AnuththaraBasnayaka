@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <h1 align="center">Hi 👋, I'm Anuththara Basnayaka</h1>
-<h3 align="center">I am Undergraduate At SLIIT</h3>
+<h3 align="center"> Completed BSc(Hons) in Information Technology specialization in Software Engineering 🚀 </h3>
 <img align="right" alt=Coding width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuththarabasnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="anuththarabasnayaka" /> </p>
